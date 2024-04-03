@@ -1,0 +1,81 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GameDataExtraction.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ScrollDownCount&Sequence_2",
+        "ListCounting&Sequence_2",
+        "ListTargetCount&Sequence_2",
+        "BoolIncompleteGame&Sequence_2",
+        "CurrentGameState&Sequence_7",
+        "DataCaughtUp&Sequence_8"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "MainGameDataGrab.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "AdCounter&Sequence_2",
+        "InnerAdCount&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EmailExport.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "CurrentGame&Sequence_3",
+        "BoolFlag&Sequence_3",
+        "dtGameCodes&Sequence_5",
+        "LastRow&Sequence_5",
+        "ReceiverEmailAddress&Sequence_8",
+        "ConfirmButtonReady&Sequence_8",
+        "NewRow&Sequence_8"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "ArgCaughtUp"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EmailToWebsiteUpload.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "RecentMails&Sequence_1",
+        "DownloadedPath&Sequence_1",
+        "Dt_NonMailedGames&Sequence_1",
+        "Dt_AllGames&Sequence_6",
+        "LastRow&Sequence_6",
+        "LoginButtonExists&Sequence_14",
+        "CurrentFileToUpload&Sequence_7",
+        "NameCurrentFile&Sequence_8"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
